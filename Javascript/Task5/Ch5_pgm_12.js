@@ -15,7 +15,7 @@ showPlayerPlace = function (playerName, playerPlace) {
     //The substring method shows in the array method that is if we take (0,2)
     //it takes the letters from 0 to 2 but not 2.
 };
-
+ 
 player1 = {
     name: "Kandra",
     place: "The Dungeon of Doom",

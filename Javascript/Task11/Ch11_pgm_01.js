@@ -13,7 +13,7 @@ const doSomething = callback => {
     }
     return console.log(result)
   }
-  
+   
   doSomething(callback);
 
 

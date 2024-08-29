@@ -8,7 +8,7 @@ playerName = "Lionel Messi";
 locationName = "Argentina";
 
 console.log(playerName + " is in " + locationName);
-
+ 
 //answer
 var score = 100;
 console.log(playerName + 'has a score of ' + 100); 

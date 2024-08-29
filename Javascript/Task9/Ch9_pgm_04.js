@@ -16,7 +16,7 @@ var planet1 = new Planet(
     "Earth",
     3,
     "The World"
-);
+); 
 
 planet.showPlanet();
 planet1.showPlanet();

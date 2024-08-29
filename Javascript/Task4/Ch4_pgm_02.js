@@ -9,7 +9,7 @@ movie1 = {
   actors: "Amy Poehler, Bill Hader",
   directors: "Pete Doctor, Ronaldo Del Carmen"
 };
-
+ 
 movie2 = {
   title: "Spectre",
   actors: "Daniel Craig, Christoph Waltz",

@@ -10,7 +10,7 @@ console.log(planet + " becomes " + bigPlanet);
 var getSmall = function (str) {
     return str.toLowerCase();
 };
-
+ 
 // Testing getSmall function
 var country = "UNITED STATES";
 var smallCountry = getSmall(country);

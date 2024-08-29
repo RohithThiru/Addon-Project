@@ -8,7 +8,7 @@ getMessage = function () {
 };
 
 response = getMessage();
-
+ 
 console.log(response);
 
 

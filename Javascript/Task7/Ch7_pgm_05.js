@@ -19,7 +19,7 @@ var showLarger = function(num1, num2, num3){
 
     console.log(small + " is smaller than " + large1 + " and " + large2);
 };
-
+ 
 showLarger(3,-9,7);
 showLarger(9,10,68);
 showLarger(4,0,-4);

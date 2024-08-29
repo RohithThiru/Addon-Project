@@ -15,7 +15,7 @@ var displaySizes = function (planet) {
     console.log("surface area = " + planet.area + " square km");
     console.log("volume = " + planet.volume + " cubic km");
 };
-
+ 
 calculateSizes(planet1);
 displaySizes(planet1);                         
 

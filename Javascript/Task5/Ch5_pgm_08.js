@@ -8,7 +8,7 @@ showPlayerName = function (playerName) {
     console.log(playerName.toUpperCase());
     console.log(playerName.toLowerCase());
 };
-
+ 
 player1 = {
     name: "Kandra",
     place: "The Dungeon of Doom",

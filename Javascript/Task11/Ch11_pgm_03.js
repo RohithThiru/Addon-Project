@@ -18,7 +18,7 @@ const doPromise = new Promise((resolve, reject) => {
       }
     }, 2000)
   })
-  
+   
   doPromise
     .then(result => {
       console.log(result)

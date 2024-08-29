@@ -12,7 +12,7 @@ square(10);
 square(-2);
 square(1111);
 square(0.5);
-
+ 
 var cube;
 cube = function(numberToCube){
     var cube = Math.pow(numberToCube, 3);

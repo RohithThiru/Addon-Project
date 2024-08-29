@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <td>${index + 1}</td>
                 <td>${data.name}</td>
                 <td>${data.score}</td>
-            `;
+            `; 
             leaderboardTable.appendChild(row);
         });
     }

@@ -18,6 +18,6 @@ const doPromise = new Promise((resolve, reject) => {
     })
     .catch(error => console.error(error))
 
-
+ 
 
     // Something wrong has happened

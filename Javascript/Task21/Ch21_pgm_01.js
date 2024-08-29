@@ -10,4 +10,4 @@ function is_valid_variable(variableName) {
 console.log(is_valid_variable('first_name')); // true
 console.log(is_valid_variable('first-name')); // false
 console.log(is_valid_variable('1first_name')); // false
-console.log(is_valid_variable('firstname')); // true
+console.log(is_valid_variable('firstname')); // true 

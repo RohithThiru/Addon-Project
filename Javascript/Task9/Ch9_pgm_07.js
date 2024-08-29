@@ -20,7 +20,7 @@ var question1 = new QuizQuestion(
     "What is the capital of France?",
     "Paris"
 );
-
+ 
 question1.addOption("Bordeaux");
 question1.addOption("F");
 question1.addOption("Paris");

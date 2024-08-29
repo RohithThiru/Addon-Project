@@ -14,7 +14,7 @@ buildPlanet = function (name, position, type, radius, rank) {
         sizeRank: rank
     };
 };
-
+ 
 getPlanetInfo = function (planet) {
     return planet.name.toUpperCase() + ": planet " + planet.position;
 };

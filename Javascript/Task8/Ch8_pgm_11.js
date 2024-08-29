@@ -18,7 +18,7 @@ var items = [
 	{ cost: 9.87, numberBought: 2 },
 	// Add an extra item to the shopping trip
 	{ cost: 3.75, numberBought: 4 }
-];
+]; 
 
 // Calculate and log the total cost
 console.log("The total cost is $" + getTotalBill(items));

@@ -12,7 +12,7 @@ showPlayerHealth("Kandra", 50);
 showPlayerHealth("Dax", 40);
 showPlayerHealth("Maxwell", 80);
 
-
+ 
 
 /* Further Adventures
  *

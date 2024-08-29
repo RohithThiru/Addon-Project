@@ -19,7 +19,7 @@ const student = {
     skills: ['HTML', 'CSS', 'JavaScript'],
     country: 'Canada',
     enrolled: true
-};
+}; 
 
 localStorage.setItem('student', JSON.stringify(student));
 

@@ -13,7 +13,7 @@ move = function (point, change) {
         y: point.y + change.y
     };
 };
-
+ 
 showPoint = function (point) {
     console.log("( " + point.x + " , " + point.y + " )");
 };

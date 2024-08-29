@@ -8,7 +8,7 @@
 
 //   Promise {<resolved>: 4}
 
-
+ 
 
 // The word async in front of a function means that function will return a promise. 
 // The above square function instead of a value it returns a promise.

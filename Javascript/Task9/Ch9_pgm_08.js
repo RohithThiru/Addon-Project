@@ -16,7 +16,7 @@ var CalendarEvent = function (title, startDate, startTime, endTime) {
       
         console.log(this.title + ": " + dateString);
     };
-};
+}; 
 
 var calEvent = new CalendarEvent(
     "Annual Review",

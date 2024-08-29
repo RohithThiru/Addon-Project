@@ -3,7 +3,7 @@
 var score;
 var players;
 var teams;
-
+ 
 /* Further Adventures
  *
  * 1) Delete the semicolon at after the word score.

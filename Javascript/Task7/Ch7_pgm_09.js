@@ -10,7 +10,7 @@ var startIndex = message.indexOf("go");
 console.log(startIndex);
 
 var message = "We choose to go to the Moon!";
-
+ 
 var startIndexOfChoose = message.indexOf("choose");
 var choose = message.substr(startIndexOfChoose, 6); // "choose" has 6 characters
 console.log(choose); // Logs "choose"

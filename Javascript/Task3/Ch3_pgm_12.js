@@ -12,7 +12,7 @@ var post = {
 console.log(post.author);
 console.log(post.id);
 console.log(post.title);
-
+ 
 var post2 ={
 	id : 2,
 	title : "Personal Bio" ,

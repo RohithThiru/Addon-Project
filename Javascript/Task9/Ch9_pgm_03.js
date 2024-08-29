@@ -15,7 +15,7 @@ var buildPlanet = function (name, position, type) {
       };
 
     return planet;
-};
+}; 
 
 var planets = [
     buildPlanet( "Jupiter", 5, "Gas Giant" ),

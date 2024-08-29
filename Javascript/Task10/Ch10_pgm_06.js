@@ -16,7 +16,7 @@ var getGuesser = function (range, offset = 0) {
 
 var guess = getGuesser(20);
 console.log(guess(10));
-
+ 
 var guessWithOffset = getGuesser(20,5);
 console.log(guessWithOffset(15));
   

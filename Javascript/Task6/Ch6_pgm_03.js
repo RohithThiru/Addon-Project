@@ -12,7 +12,7 @@ getHelloTo = function (name) {
 console.log(getHelloTo("Kandra"));
 console.log(getHelloTo("Dax"));  
                                      
-
+ 
 
 
 /* Further Adventures

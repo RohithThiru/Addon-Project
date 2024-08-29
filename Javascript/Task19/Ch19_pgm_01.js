@@ -18,11 +18,11 @@ class Dog extends Animal {
     constructor(name, age, color) {
         super(name, age, color, 4); 
     }
-
+ 
     displayInfo() {
         console.log(`Dog - Name: ${this.name}, Age: ${this.age}, Color: ${this.color}, Legs: ${this.legs}`);
     }
-}
+}  
 
 
 class Cat extends Animal {

@@ -13,7 +13,7 @@ var getGame = function () {
     newLine: function () {
       return "\n";
     },
-
+ 
     line: function (length, character) {
       var longString = "****************************************";
       longString += "----------------------------------------";

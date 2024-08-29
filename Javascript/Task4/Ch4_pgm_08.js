@@ -11,7 +11,7 @@ displayMenu = function () {
 	console.log("(4) Download file");
 	console.log("(9) Quit");
 };
-
+ 
 displayMenu();
 
 var displayMyMenu;

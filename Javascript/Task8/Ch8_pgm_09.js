@@ -16,7 +16,7 @@ showArguments = function (item, index, wholeArray) {
 };
 
 players.forEach(showArguments);
-
+ 
 
 
 /* Further Adventures

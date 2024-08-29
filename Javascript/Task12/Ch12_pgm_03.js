@@ -9,7 +9,7 @@ const fetchCountriesData = async () => {
   try {
     const response = await fetch(url);
     const countries = await response.json();
-
+ 
     const languageCounts = countries.reduce((acc, country) => {
       country.languages.forEach(language => {
         acc[language.name] = (acc[language.name] || 0) + 1;

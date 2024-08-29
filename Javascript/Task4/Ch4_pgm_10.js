@@ -9,7 +9,7 @@ movie1 = {
     actors: "Amy Poehler, Bill Hader",
     directors: "Pete Doctor, Ronaldo Del Carmen"
 };
-
+ 
 showMovieInfo = function () {
   console.log("Movie information for " + movie.title);
   console.log("------------------------------");

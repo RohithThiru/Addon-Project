@@ -8,12 +8,12 @@ player1 = {
     place: "The Dungeon of Doom",
     items: ["a rusty key", "The Sword of Destiny", "a piece of cheese"]
 };
-
+ 
 console.log(player1.name);
 console.log(player1.name + " is in " + player1.place);
 console.log(player1.name + " has health " + player1.health);
 console.log("Items: " + player1.items.join(", "));
-
+ 
 // Create a second player
 var player2 = {
     name: "Arin",

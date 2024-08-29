@@ -9,7 +9,7 @@ console.log(message.substr(0, 10));
 console.log(message.substr(3)); // Logs "choose to go to the Moon!"
 console.log(message.substr(-5)); // Logs "Moon!"
 console.log(message.substr(11, -3)); // Logs "go to the"
-
+ 
 
 /* Further Adventures
  *

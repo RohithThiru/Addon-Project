@@ -12,7 +12,7 @@ add = function (number1, number2, number3) {
 var sum = add(50, 23);
 console.log(sum = add(45, 90, 100));
 
-
+ 
 /* Further Adventures
  *
  * 1) Find and display the sum of

@@ -14,7 +14,7 @@ player1 = {
     health: 50,
     healthMultiplier: 10
 };
-
+ 
 player2 = {
     name: "Dax",
     place: "The Old Library",

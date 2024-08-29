@@ -34,4 +34,4 @@ if (!isValid) {
     alert('Form submitted successfully!');
     document.getElementById('validationForm').reset(); // Reset form after submission
 }
-}
+} 

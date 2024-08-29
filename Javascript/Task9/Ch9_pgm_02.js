@@ -13,7 +13,7 @@ var buildPlanet = function (name, position, type) {
         info += " - " + planet.type;
         console.log(info);
     };
-  
+   
     return planet;
 };
 

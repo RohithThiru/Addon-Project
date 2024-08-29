@@ -15,7 +15,7 @@ getHelloTo = function (name) {
 
 sum = function (number1, number2) {
     return number1 + number2;
-};
+}; 
 
 totalCost = function (callOutCharge, costPerHour, numberOfHours) {
     return callOutCharge + costPerHour * numberOfHours;

@@ -21,3 +21,4 @@ calculateBtn.addEventListener('click', () => {
     const weightOnPlanet = earthWeight * planetGravityValue;
     resultPara.textContent = `Your weight on ${selectedPlanet} is ${weightOnPlanet.toFixed(2)} kg`;
 });
+ 

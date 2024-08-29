@@ -15,7 +15,7 @@ function isPrime(num) {
     return true;
 }
 
-
+ 
 const container = document.getElementById('number-container');
 
 

@@ -3,7 +3,7 @@
 var score;
 score = 100;
 console.log(score);
-
+ 
 score = 200;
 console.log(score);
 

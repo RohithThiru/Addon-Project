@@ -17,7 +17,7 @@ function isPrime(num) {
 
 
 const container = document.getElementById('number-container');
-
+ 
 
 for (let i = 1; i <= 100; i++) {
     const numberDiv = document.createElement('div');

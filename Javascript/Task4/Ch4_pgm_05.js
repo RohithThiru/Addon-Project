@@ -11,7 +11,7 @@ findTotal = function () {
 	result = number1 + number2;
 };
 findTotal();
-
+ 
 displayMenu = function () {
 	console.log("Please choose an option:");
 	console.log("(1) Print log");

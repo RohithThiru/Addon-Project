@@ -8,7 +8,7 @@ var nextYear = [ place3, place1]; //yes there can be two arrays
 console.log(thisYear);
 console.log(nextYear);
 
-
+ 
 
 /* Further Adventures
  *

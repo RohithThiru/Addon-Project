@@ -11,7 +11,7 @@ function createClosureExample1() {
 
 const innerFunc = createClosureExample1();
 innerFunc(); 
-
+  
 
 function createClosureExample2() {
     let count = 0;

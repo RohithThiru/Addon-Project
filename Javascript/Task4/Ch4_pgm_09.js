@@ -8,7 +8,7 @@ movie ={
   actors : "Prabhas, Amitabh Bachchan, Kamal Haasan",
   directors : "Nag Ashwin"
 };
-
+  
 showMovieInfo = function () {
   console.log("Movie information for " + movie.title);
   console.log("------------------------------");

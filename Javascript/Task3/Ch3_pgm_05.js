@@ -8,7 +8,7 @@ book = {
 console.log(book);
 
 var book2;
-
+ 
 book2 ={};
 console.log(book2);
 

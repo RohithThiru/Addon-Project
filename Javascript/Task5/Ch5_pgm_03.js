@@ -10,7 +10,7 @@ showMessage("It's full of stars!");
 showMessage("There is a beautiful moon!");
 showMessage("It is awesome to see the plesant night!");
 
-
+ 
 
 /* Further Adventures
  *

@@ -12,7 +12,7 @@ var getDay = function(dayNumber) {
     } else {
         return "Invalid day number";
     }
-};
+}; 
 console.log(getDay(4));
 
 

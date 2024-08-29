@@ -13,7 +13,7 @@ showPlayerName = function (playerName) {
 showPlayerHealth = function (playerName, playerHealth) {
     console.log(playerName + " has health " + playerHealth);
 };
-
+ 
 showPlayerPlace = function (playerName, playerPlace) {
     console.log(playerName + " is in " + playerPlace);
 };

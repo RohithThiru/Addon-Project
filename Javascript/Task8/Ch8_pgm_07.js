@@ -11,7 +11,7 @@ items = [
   "Effiel Tower",
   "Taj Mahal",
   "The Great Wall of China"
-];
+]; 
 
 showInfo = function (itemToShow) {
     console.log(itemToShow + " has " + itemToShow.length + " of letters");

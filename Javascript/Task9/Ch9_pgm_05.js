@@ -17,7 +17,7 @@ var Planet = function (name, position, type) {
     };
     this.removeMoon = function() {
         if (this.moons.length > 0) {
-            this.moons.pop();
+             this.moons.pop();
         } else {
             console.log("No moons to remove.");
         }

@@ -14,10 +14,10 @@ console.log(skillsJSON);
 
 const ageJSON = JSON.stringify(age);
 console.log(ageJSON);
-
+ 
 const isMarriedJSON = JSON.stringify(isMarried);
 console.log(isMarriedJSON);
-
+ 
 const studentJSON = JSON.stringify(student);
 console.log(studentJSON);
 

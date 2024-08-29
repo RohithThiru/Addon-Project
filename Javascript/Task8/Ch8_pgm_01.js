@@ -7,4 +7,4 @@ var akaScores = scores;
 
 console.log(scores);
 console.log(names);
-console.log(akaScores);
+console.log(akaScores); 

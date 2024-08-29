@@ -12,7 +12,7 @@ console.log("Cost for 12 hours: $" + costFor12Hours);
 
 // Total cost for 3 hours with a $20 discount
 console.log("$" + totalCost(30, 40, 3, 20));
-
+ 
 
 
 

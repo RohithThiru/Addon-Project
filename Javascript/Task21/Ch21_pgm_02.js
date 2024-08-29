@@ -19,7 +19,7 @@ function tenMostFrequentWords(paragraph, numWords = 10) {
     const sortedWords = Object.keys(wordCount)
         .map(word => ({ word: word, count: wordCount[word] }))
         .sort((a, b) => b.count - a.count);
-
+ 
     // Step 4: Return the top `numWords` words
     return sortedWords.slice(0, numWords);
 }

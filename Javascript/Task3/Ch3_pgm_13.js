@@ -13,7 +13,7 @@ var geolocation = {
 console.log(geolocation.city); // Should display "San Francisco"
 console.log(geolocation);      // Should display the whole geolocation object
   
-  
+   
   
   /* Further Adventures
    *

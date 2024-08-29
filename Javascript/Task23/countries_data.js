@@ -24,7 +24,7 @@ const languagesData = [
     { language: "Russian", speakers: 154000000 },
     { language: "Japanese", speakers: 128000000 },
     { language: "Punjabi", speakers: 102000000 }
-];
+]; 
 
 // Function to create a bar graph
 function createBarGraph(data, graphId) {

@@ -16,7 +16,7 @@ var rect = [
   { length: 7, width: 2 },
   { length: 8, width: 5 }
 ];
-
+ 
 // Function to assign area to a rectangle
 var assignArea = function(rect) {
   rect.area = rect.length * rect.width;

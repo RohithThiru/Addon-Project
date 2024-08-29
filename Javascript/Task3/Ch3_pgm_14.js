@@ -15,8 +15,7 @@ console.log("1. " + questionAndAnswer.answer1);
 console.log("2. " + questionAndAnswer.answer2);
 console.log("3. " + questionAndAnswer.answer3);
 console.log("4. " + questionAndAnswer.answer4);
-
-
+ 
 /* Further Adventures
  *
  * 1) Use console.log to present the question

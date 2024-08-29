@@ -14,7 +14,7 @@ console.log(para1, para2, para3, para4);
 // Get all the p elements as a NodeList
 const paragraphs = document.querySelectorAll("p");
 console.log(paragraphs);
-
+ 
 // Loop through the NodeList and get the text content of each paragraph
 paragraphs.forEach(paragraph => {
     console.log(paragraph.textContent);

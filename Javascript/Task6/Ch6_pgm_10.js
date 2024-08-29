@@ -15,7 +15,7 @@ var getPlayerPlace = function (playerName, playerPlace) {
 var getBorder = function () {
     return "================================";
 };
-
+ 
 var getPlayerItems = function (playerName, playerItems) {
     return playerName + " has the following items: " + playerItems;
 };

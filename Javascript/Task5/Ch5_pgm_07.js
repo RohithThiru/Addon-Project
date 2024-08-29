@@ -9,7 +9,7 @@ showPlayerName = function (playerName) {
 
 showPlayerName("Kandra");
 showPlayerName("Dax");
-
+ 
 
 var playerNameLength;
 playerNameLength = function(playerName){

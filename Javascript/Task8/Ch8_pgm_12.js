@@ -19,7 +19,7 @@ var question1 = {
     "Brussels"
   ],
   correctAnswer : "Paris"
-};
+}; 
 
 var question2 = {
   question : "Where did the effiel tower located?",

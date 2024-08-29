@@ -10,7 +10,7 @@ player1 = {
     place: "The Dungeon of Doom",
     health: 50
 };
-
+  
 player2 = {
     name: "Dax",
     place: "The Old Library",

@@ -12,7 +12,7 @@ getPlayerName = function (playerName) {
 getPlayerHealth = function (playerName, playerHealth) {
     return playerName + " has health " + playerHealth;
 };
-
+ 
 getPlayerPlace = function (playerName, playerPlace) {
     return playerName + " is in " + playerPlace;
 };

@@ -11,7 +11,7 @@ var getGuesser = function () {
     }
   };
 };
-
+ 
 var guess = getGuesser();
   
   

@@ -12,7 +12,7 @@ for (var i = -20; i <= 60; i += 10) {
   console.log("Length: " + i + ", Line: " + line(i));
 }
 
-
+ 
 var spaces = function (spaceLength) {
   var spaces = "                                        ";
   spaceLength = Math.max(0, spaceLength);

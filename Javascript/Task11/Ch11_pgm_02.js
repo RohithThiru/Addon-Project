@@ -15,7 +15,7 @@ const doSomething = callback => {
     }
     return console.log(result)
   })
-
+ 
 
 // after 2 seconds it will print the skills
 // ["HTML", "CSS", "JS"]

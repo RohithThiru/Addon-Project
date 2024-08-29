@@ -18,7 +18,7 @@ var spacer = {
     length = Math.max(0, length);
     length = Math.min(40, length);
     return longString.substr(longString.indexOf(character), length);
-  },
+  }, 
 
   wrap : function (text, length, character) {
     var padLength = length - text.length - 3;

@@ -17,7 +17,7 @@ function createGuesser(min, max) {
   };
 }
 
-
+ 
 
 var guess = createGuesser(30, 50);
 

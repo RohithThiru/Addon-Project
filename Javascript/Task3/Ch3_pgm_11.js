@@ -12,7 +12,7 @@ console.log(player1.name + " has scored " + player1.score);
 player1.score = player1.score + 50;
 
 console.log(player1.name + " has scored " + player1.score);
-
+ 
 // Increase player1's score by 10%
 player1.score = player1.score * 1.1;
 console.log(player1.name + " has scored " + player1.score.toFixed(2));

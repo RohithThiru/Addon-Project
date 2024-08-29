@@ -11,7 +11,7 @@ console.log(getPlayerName("Kiki"));
 console.log(getPlayerName("Mahesha")); 
 console.log(getPlayerName("Jahver")); 
 
-
+ 
 /* Further Adventures
  *
  * 1) Update the getPlayerName function

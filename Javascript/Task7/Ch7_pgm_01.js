@@ -17,7 +17,7 @@ planet2 = {
     type: "Heatest Planet",
     radius: 69911,
     sizeRank: 1
-};
+}; 
 planet3 = {
     name: "Earth",
     position: 3,

@@ -6,7 +6,7 @@ console.log(score);
 var score2 = 150;
 console.log(score);
 console.log("new value of score2 is " + score2);
-
+ 
 
 
 

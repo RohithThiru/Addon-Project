@@ -15,7 +15,7 @@ var planet1 = buildPlanet(
     5,
     "Gas Giant"
 );
-
+ 
 console.log(planet1.name);
 console.log(planet1.position);
 console.log(planet1.type);

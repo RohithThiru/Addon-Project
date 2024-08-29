@@ -22,7 +22,7 @@ var Planet = function (name, position, type) {
         }
     };
 };
-
+ 
 var planet1 = new Planet("Jupiter", 5, "Gas Giant");
 planet1.addMoon("Io");
 planet1.addMoon("Europa");

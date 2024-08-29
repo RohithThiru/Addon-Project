@@ -11,7 +11,7 @@ showPlayerPlace = function (playerName, playerPlace) {
 showPlayerPlace("Kandra", "The Dungeon of Doom");
 showPlayerPlace("Dax", "The Old Library")
 
-
+ 
 /* Further Adventures
  *
  * 1) Inside the console.log brackets,

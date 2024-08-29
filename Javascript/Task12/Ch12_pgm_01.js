@@ -9,7 +9,7 @@ console.log("Empty set c:", c);
 const numSet = new Set();
 for(let i = 0; i <= 10; i++){
     numSet.add(i);
-}
+} 
 console.log("Number Set:", numSet);
 
 numSet.delete(5);

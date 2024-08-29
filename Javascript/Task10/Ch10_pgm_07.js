@@ -12,7 +12,7 @@ var getQuiz = function () {
       checkAnswer,
       submit,
       getHint;
-    
+     
   questions = [
     {
       question: "What is the highest mountain in the world?",

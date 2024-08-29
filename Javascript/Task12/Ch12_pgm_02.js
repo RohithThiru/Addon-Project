@@ -13,7 +13,7 @@ console.log('Union of a and b:', [...unionSet]);
 const intersectionSet = new Set([...setA].filter(item => setB.has(item)));
 console.log('Intersection of a and b:', [...intersectionSet]);
 
-// Find difference of a and b 
+// Find difference of a  and b 
 const differenceSet = new Set([...setA].filter(item => !setB.has(item)));
 console.log('Difference of a and b:', [...differenceSet]);
 

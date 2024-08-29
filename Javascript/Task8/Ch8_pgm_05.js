@@ -10,7 +10,7 @@ var getVisitorReport = function (visitorArray, dayInWeek) {
   ];
 	var index = dayInWeek - 1;
 	var visitorReport;
-
+ 
 	visitorReport = "There were ";
   visitorReport += visitorArray[index];
   visitorReport += " visitors ";

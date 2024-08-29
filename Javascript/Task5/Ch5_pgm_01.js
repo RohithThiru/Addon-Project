@@ -10,7 +10,7 @@ showMessage = function () {
 	console.log(message);
     console.log(msg);//it shows error as the msg is not defined
 };
-
+ 
 showMessage();
 
 
